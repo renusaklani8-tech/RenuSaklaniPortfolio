@@ -20,17 +20,7 @@ const achievements = [
     icon: '🎤',
   },
 
-  {
-    title: 'College Parade Participation',
-    desc: 'Participated in college parade activities and represented the institution in 2024.',
-    icon: '🎖️',
-  },
 
-  {
-    title: 'Bronze Medal - 100m Sprint',
-    desc: 'Secured 3rd place and won a bronze medal in the 100m sprint during an interschool sports competition in 2022.',
-    icon: '🥉',
-  },
 ];
 
 const Achievements = () => {
